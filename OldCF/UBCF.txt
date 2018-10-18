@@ -1,0 +1,6 @@
+gSize=4
+topN=5
+neighborNum=6
+gStrategy=MP
+
+results=results.txt
